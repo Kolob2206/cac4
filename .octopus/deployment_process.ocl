@@ -7,7 +7,7 @@ step "Script Time w Package Ref" {
         properties = {
             Octopus.Action.RunOnServer = "false"
             Octopus.Action.Template.Id = "ActionTemplates-1133"
-            Octopus.Action.Template.Version = "3"
+            Octopus.Action.Template.Version = "4"
         }
         worker_pool_variable = ""
     }
